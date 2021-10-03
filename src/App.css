@@ -1,0 +1,101 @@
+.App {
+  text-align: left;
+  background-color: #1a1e25;
+
+
+}
+
+.App-logo {
+  height: 150px;
+  width: 150px;
+  pointer-events: none;
+  margin-top: -100px;
+  margin-left: -120px;
+
+
+}
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+.App-header {
+  background-color: #1a1e25;
+  /* min-height: 100vh; */
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
+  align-items: flex-start;
+  justify-content: right;
+  font-size: calc(10px + 2vmin);
+  color: #ffc400;
+  font-size: 45px;
+  font-family: 'Speeday';
+  height: 60px;
+  width: 400px;
+  padding-top: 20px;
+
+
+
+}
+
+@font-face {
+  font-family: 'Speeday'format ('truetype');
+  src: local('Speeday-Regular-FFP.tff');
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+.listHeader a {
+  text-decoration: none;
+  color: #ffc400;
+  padding: 3px;
+}
+
+.listHeader a:hover {
+  color: lightskyblue;
+
+
+}
+
+
+.Body {
+  background-color: #22242b;
+  min-height: 100vh;
+}
+
+.listHeader {
+  background-color: #1a1e25;
+  width: max-content;
+  height: 30px;
+
+}
+
+.listHeader ul li {
+  display: inline-block;
+  margin-right: 10px;
+  padding-right: 20px;
+  margin-left: 10px;
+  color: #ffc400;
+  justify-content: center;
+  align-items: center;
+}
+
+.header ul li a {
+  color: lightskyblue;
+}
