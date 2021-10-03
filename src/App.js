@@ -1,32 +1,26 @@
 import logo from './Logoku.png';
+// import Home from './Home/Home';
+// import Traveling1 from
+// import Traveling2 from
+// import Traveling3 from
+// import AboutMe from
 import { Component } from 'react';
 import './App.css';
+import React from "react";
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link,
+  BrowserRouter
+} from "react-router-dom";
 
-// function Greeting() {
-//   return (
-//     <div className="App">
-//       <header className="App-header">
-//         <img src={logo} className="App-logo" alt="logo" />
-//         <p>Hello World</p>
-//         <p>
-//           Edit <code>src/App.js</code> and save to reload.
-//         </p>
-//         <a
-//           className="App-link"
-//           href="https://reactjs.org"
-//           target="_blank"
-//           rel="noopener noreferrer"
-//         >
-//           Learn React
-//         </a>
-//       </header>
-//     </div>
-//   );
-// }
+
 
 class App extends Component {
   render() {
     return (
+      <BrowserRouter>
       <div className="App">
       <header className="App-header">TJ HISTORY
       <img src={logo} className="App-logo" alt="logo" />
@@ -36,28 +30,20 @@ class App extends Component {
       </header>
       <header className = "listHeader">
       <ul>
-        <li><a href="App.js"> <strong> Home </strong> </a></li>
-        <li><a href="Traveling1.js"> <strong> Traveling 1 </strong> </a></li>
-        <li><a href="Traveling2.js"> <strong> Traveling 2 </strong> </a></li>
-        <li><a href="Traveling.js"> <strong> Traveling 3 </strong> </a></li>
-        <li><a href="AboutMe.js"> <strong> About Me </strong> </a></li>
-
+        <li> <strong> <Link to="/home" >Home</Link> </strong></li>
+        <li> <strong> <Link to="/traveling1" >Traveling 1</Link> </strong></li>
+        <li> <strong> <Link to="/traveling2" >Traveling 2</Link> </strong></li>
+        <li> <strong> <Link to="/traveling3" >Traveling 3</Link> </strong></li>
+        <li> <strong> <Link to="/aboutme" >About Me</Link> </strong></li>
+        
       </ul>
       </header>
       <body className = "Body">
-      
-
-      
       </body>
 
-
-      
-      
-      
-      
-      
       
       </div>
+      </BrowserRouter>
 
     );
   
