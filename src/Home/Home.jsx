@@ -1,6 +1,7 @@
 
 import {
-    Component
+    Component,
+    Fragment
 }
 from 'react';
 import './Home.css';
@@ -11,6 +12,7 @@ import './Home.css';
 class Home extends Component {
     render() {
         return ( 
+        <Fragment>
         <div className="Home"> 
         <header>
         <h1>TRAVELING JOURNEY HISTORY</h1>
@@ -23,6 +25,7 @@ class Home extends Component {
         </header>
         
          </div> 
+        </Fragment>
         )
     }
 }

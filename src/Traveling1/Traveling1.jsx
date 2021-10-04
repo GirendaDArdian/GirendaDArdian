@@ -1,16 +1,18 @@
 
 import {
-    Component
+    Component,
+    Fragment
 }
 from 'react';
-import './Home.css';
+import './Traveling1.css';
 
 
 
 
-class Home extends Component {
+class Traveling1 extends Component {
     render() {
         return ( 
+        <Fragment>
         <div className="Home"> 
         <header>
         <h1>Pengalaman Liburan ke Karimunjawa</h1>
@@ -24,8 +26,10 @@ class Home extends Component {
         </header>
         
          </div> 
+        </Fragment>
         )
     }
 }
 
-export default Home;
+export default Traveling1;
+
