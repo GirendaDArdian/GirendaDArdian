@@ -1,11 +1,21 @@
 
 import {
     Component,
-    Fragment
+    Fragment,
+    
 }
 from 'react';
 import './Home.css';
-
+import React from "react";
+import {
+  // BrowserRouter ,
+  // as Router,
+  // Switch,
+  Route,
+  Link,
+  BrowserRouter, 
+  
+} from "react-router-dom";
 
 
 
@@ -14,16 +24,17 @@ class Home extends Component {
         return ( 
         <Fragment>
         <div className="Home"> 
-        <header>
-        <h1>TRAVELING JOURNEY HISTORY</h1>
-        <h3>Share Your Traveling History</h3>
-        <p>
+        <body className="body">
+
+        <header className = "header">
+        <h1 className = "h1">TRAVELING JOURNEY HISTORY</h1>
+        <h3 className = "h3">Welcome to My Traveling History</h3>
         
-        
-        </p>
+       <li className = "button"> <strong> <Link to="/traveling1" ><p className="tombol">Start Your Journey</p></Link> </strong></li>
         
         </header>
         
+        </body>
          </div> 
         </Fragment>
         )
