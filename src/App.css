@@ -1,7 +1,7 @@
 .App {
   text-align: left;
-  background-color: #1a1e25;
 
+  background-image: linear-gradient(#145712, #2d552b);
 
 }
 
@@ -22,7 +22,7 @@
 } */
 
 .App-header {
-  background-color: #1a1e25;
+
   /* min-height: 100vh; */
   display: flex;
   flex-direction: column;
@@ -34,8 +34,9 @@
   font-size: 45px;
   font-family: 'Speeday';
   height: 60px;
-  width: 400px;
+  width: max-content;
   padding-top: 20px;
+
 
 
 
@@ -63,35 +64,35 @@
 
 .listHeader a {
   text-decoration: none;
-  color: #ffc400;
+  color: #ffffff;
   padding: 3px;
 }
 
 .listHeader a:hover {
   color: lightskyblue;
 
-
 }
 
 
 .Body {
-  background-color: #22242b;
+  background-color: #2d552b;
   min-height: 660px;
 }
 
 .listHeader {
-  background-color: #1a1e25;
-  width: max-content;
-  height: 30px;
+  background-image: linear-gradient(#145712, #2d552b);
+  width: 1280px;
 
+  height: 50px;
 }
 
 .listHeader ul li {
   display: inline-block;
-  margin-right: 10px;
+  margin-right: 20px;
   padding-right: 20px;
-  margin-left: 10px;
-  color: #ffc400;
+  text-align: center;
+
+  color: #ffffff;
   justify-content: center;
   align-items: center;
 }

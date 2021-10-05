@@ -24,7 +24,7 @@ class App extends Component {
     return (
       <BrowserRouter>
       <div className="App">
-      <header className="App-header">TJ HISTORY
+      <header className="App-header"><u>TJ HISTORY</u>
       <img src={logo} className="App-logo" alt="logo" />
       
       
