@@ -1,7 +1,7 @@
 .App {
   text-align: left;
 
-  background-image: linear-gradient(#145712, #2d552b);
+  background-color: #145712;
 
 }
 
@@ -9,8 +9,9 @@
   height: 150px;
   width: 150px;
   pointer-events: none;
-  margin-top: -100px;
-  margin-left: -120px;
+  margin-top: -50px;
+  margin-left: -20px;
+
 
 
 }
@@ -21,7 +22,7 @@
   }
 } */
 
-.App-header {
+.App-header a {
 
   /* min-height: 100vh; */
   display: flex;
@@ -31,13 +32,18 @@
   justify-content: right;
   font-size: calc(10px + 2vmin);
   color: #ffc400;
-  font-size: 45px;
+  font-size: 55px;
   font-family: 'Speeday';
-  height: 60px;
+  height: 0px;
   width: max-content;
   padding-top: 20px;
 
+}
 
+
+
+.App-header a:hover {
+  color: #e4af00;
 
 
 }
@@ -49,7 +55,7 @@
 
 
 .App-link {
-  color: #61dafb;
+  color: #2fbe53;
 }
 
 /* @keyframes App-logo-spin {
@@ -69,21 +75,22 @@
 }
 
 .listHeader a:hover {
-  color: lightskyblue;
+  color: rgb(129, 255, 150);
+
 
 }
 
 
 .Body {
-  background-color: #2d552b;
-  min-height: 660px;
+  background-color: #145712;
+
+
 }
 
 .listHeader {
   background-image: linear-gradient(#145712, #2d552b);
-  width: 1280px;
-
-  height: 50px;
+  width: 1270px;
+  height: 40px;
 }
 
 .listHeader ul li {
@@ -91,7 +98,6 @@
   margin-right: 20px;
   padding-right: 20px;
   text-align: center;
-
   color: #ffffff;
   justify-content: center;
   align-items: center;
