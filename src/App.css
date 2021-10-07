@@ -1,5 +1,6 @@
 .App {
   text-align: left;
+  width: 1287px;
 
   background-color: #145712;
 
@@ -106,3 +107,4 @@
 .header ul li a {
   color: lightskyblue;
 }
+

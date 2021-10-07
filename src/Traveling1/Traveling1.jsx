@@ -30,7 +30,7 @@ class Traveling1 extends Component {
                                 Kami transit menginap dihotel menanti datangnya pagi, hingga pada akhirnya pada jam 7 pagi kita bersiap untuk pergi ke Pulau Karimunjawa lewat pelabuhan
                                 untuk naik kapal.
                             </p>
-                            <br></br>
+
                             <br></br>
                             <p className="p1t1">Kapal yang kami naiki ini kapal bahari ekspres yang mengangkut puluhan orang dalam 2 jam ke Pulau Karimunjawa. Sesampainya disana, kami bertemu
                                 dengan orang asli sana untuk pergi ke penginapan, menggunakan mobil kami menuju penginapan selama 10 menit, akhirnya kita sampai di penginapan. Setelah beberes
@@ -42,7 +42,7 @@ class Traveling1 extends Component {
                                 saat kami menuju penangkaran hiu. <em>For your info</em>, pada saat itu Pulau Karimunjawa masih menerapkan listrik nyala hanya pukul 18.00-06.00 sehingga pada siang hari
                                 kami hanya bisa beraktivitas diluar tanpa ada listik yang memadai.
                             </p>
-                            <br></br>
+
                             <br></br>
                             <p className="p1t1"> Balik lagi ke perjalananku ke penangkaran ikan hiu, disana kami bertemu dengan warga asli pulau dan
                                 beberapa turis domestik yang juga berlibur disana. Disana tidak hanya ada ikan hiu saja, namun ada bintang laut, ikan buntal, dan masih banyak fauna laut lainnya.

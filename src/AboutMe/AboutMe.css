@@ -1,105 +1,321 @@
-.bodyt1 {
-
+.bodytittle {
     color: aliceblue;
     text-align: center;
     background-color: #2d552b;
     width: 1287px;
-
     margin-left: -40px;
     margin-top: -17px;
     background-size: 2000px;
 
 }
 
-.body2t1 {
+.fotoam1 {
+    background-image: url('giren.jpg');
+    width: 200px;
+    height: 200px;
+    background-size: 200px;
+    margin-left: 40px;
+    border-radius: 100%;
+    margin-left: 100px;
+}
+
+.bodyam {
+
+    color: aliceblue;
+    text-align: left;
+    background-color: #2d552b;
+    width: 800px;
+
+    margin-left: 400px;
+    margin-top: -17px;
+    background-size: 2000px;
+    margin-top: -180px;
+
+
+}
+
+.body2am {
 
     color: aliceblue;
     text-align: center;
     background-color: #2d552b;
-    width: 1280px;
-    height: 1800px;
+    width: 800px;
+    height: 1000px;
     margin-top: -17px;
     background-size: 2000px;
 
 }
 
-.headert1 {
+.headeram {
     margin-left: 40px;
 
 }
 
-.h3t1 {
-    font-size: 15px;
+.h1am {
+    font-size: 45px;
     margin-top: -20px;
 }
 
-.p1t1 {
+.h3am {
+    font-size: 15px;
+    margin-top: -20px;
+    line-height: 30px;
+}
+
+.h3am1 {
+    font-size: 18px;
+    margin-top: -20px;
+    line-height: 30px;
+    margin-left: -390px;
+    margin-top: 10px;
+
+
+}
+
+.h3am2 {
+    font-size: 15px;
+    margin-top: -20px;
+    line-height: 30px;
+    margin-left: -660px;
+
+
+}
+
+.h3am3 {
+    font-size: 18px;
+    margin-top: 20px;
+    line-height: 30px;
+    margin-left: -660px;
+
+
+}
+
+.h3am4 {
+    font-size: 15px;
+    margin-top: -20px;
+    line-height: 30px;
+    margin-left: -655px;
+
+
+}
+
+.h3am5 {
+    font-size: 15px;
+    margin-top: -20px;
+    line-height: 30px;
+    margin-left: -655px;
+
+
+}
+
+.h2am {
+    font-size: 25px;
+    margin-top: 40px;
+    line-height: 30px;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.contact {
+    font-size: 25px;
+    margin-top: -350px;
+    line-height: 30px;
+    text-align: left;
+    margin-left: -350px;
+}
+
+.topskill {
+    font-size: 25px;
+    margin-top: -650px;
+    line-height: 30px;
+    text-align: left;
+    margin-left: -350px;
+}
+
+.certification {
+    font-size: 25px;
+    margin-top: 30px;
+    line-height: 30px;
+    text-align: left;
+    margin-left: -350px;
+}
+
+.p1am {
     width: 1200px;
     text-align: justify;
     line-height: 35px;
     margin-left: 40px;
+    width: 600px;
+}
 
+.p1am2 {
+    width: 1200px;
+    text-align: justify;
+    line-height: 35px;
+    margin-left: 40px;
+    width: 600px;
+    margin-top: -20px;
+    font-size: 15px;
+}
+
+.p1am3 {
+    width: 1200px;
+    text-align: justify;
+    line-height: 35px;
+    margin-left: 40px;
+    width: 600px;
+    margin-top: -20px;
+    font-size: 15px;
+}
+
+.p1am4 {
+    width: 1200px;
+    text-align: left;
+    line-height: 35px;
+    margin-left: -316px;
+    width: 600px;
+    margin-top: -163px;
+    font-size: 15px;
 
 
 }
 
-.h4t1 {
+.p1am5 {
+    width: 1200px;
+    text-align: left;
+    line-height: 35px;
+    margin-left: -316px;
+    width: 600px;
+    margin-top: -12px;
+    font-size: 15px;
+
+
+}
+
+.p1am6 {
+    width: 1200px;
+    text-align: left;
+    line-height: 35px;
+    margin-left: -316px;
+    width: 600px;
+    margin-top: -10px;
+    font-size: 15px;
+
+
+}
+
+.p1am7 {
+    width: 1200px;
+    text-align: left;
+    line-height: 35px;
+    margin-left: -316px;
+    width: 600px;
+    margin-top: -10px;
+    font-size: 13px;
+
+
+}
+
+.p1am8 {
+    width: 1200px;
+    text-align: left;
+    line-height: 35px;
+    margin-left: -350px;
+    width: 600px;
+    margin-top: -10px;
+    font-size: 15px;
+
+
+}
+
+.p1am9 {
+    width: 1200px;
+    text-align: left;
+    line-height: 35px;
+    margin-left: -350px;
+    width: 600px;
+    margin-top: -10px;
+    font-size: 15px;
+
+
+}
+
+.p1am10 {
+    width: 1200px;
+    text-align: left;
+    line-height: 35px;
+    margin-left: -350px;
+    width: 600px;
+    margin-top: -10px;
+    font-size: 15px;
+
+
+}
+
+.p1am11 {
+    width: 1200px;
+    text-align: left;
+    line-height: 20px;
+    margin-left: -350px;
+    width: 600px;
+    margin-top: -10px;
+    font-size: 15px;
+
+
+}
+
+
+.h4am {
     font-size: 15px;
     margin-top: 30px;
     color: #ffc400;
 
 }
 
-/* .fotot11 {
-    background-image: url('foto1.jpg');
-    width: 300px;
-    height: 200px;
-    background-size: 300px;
-    margin-left: 40px;
+
+
+.fotoam2 {
+    background-image: url('gmail.png');
+    width: 30px;
+    height: 15px;
+    background-size: 30px;
+    margin-left: -350px;
+
 }
 
-.fotot12 {
-    background-image: url('foto2.jpg');
-    width: 300px;
-    height: 200px;
-    background-size: 300px;
-    margin-left: 80px;
-    margin-left: 450px;
-    margin-top: -215px;
-}
-
-.fotot13 {
-    background-image: url('foto3.jpg');
-    width: 300px;
-    height: 200px;
-    background-size: 300px;
-    margin-left: 80px;
-    margin-right: 30px;
-    margin-left: 850px;
-    margin-top: -215px;
-}
-
-.fotot14 {
-    background-image: url('foto4.jpg');
-    width: 300px;
-    height: 200px;
-    background-size: 300px;
-    margin-left: 40px;
+.fotoam3 {
+    background-image: url('ig.png');
+    width: 30px;
+    height: 30px;
+    background-size: 30px;
+    margin-left: -350px;
 
 
 }
 
-.fotot15 {
-    background-image: url('foto5.jpg');
-    width: 300px;
-    height: 200px;
-    background-size: 300px;
-    margin-left: 40px;
-    margin-left: 450px;
-    margin-top: -215px;
+.fotoam4 {
+    background-image: url('line.png');
+    width: 38px;
+    height: 38px;
+    background-size: 38px;
+    margin-left: -357.5px;
+    margin-top: -10px;
+
+
 }
 
-.fotot16 {
+.fotoam5 {
+    background-image: url('linkedin.png');
+    width: 26px;
+    height: 26px;
+    background-size: 26px;
+    margin-left: -350px;
+    margin-top: -10px;
+
+}
+
+/*
+.fotoam6 {
     background-image: url('foto6.jpg');
     width: 300px;
     height: 200px;
@@ -109,7 +325,7 @@
     margin-top: -215px;
 }
 
-.fotot17 {
+.fotoam7 {
     background-image: url('foto7.JPG');
     width: 300px;
     height: 200px;
@@ -117,7 +333,7 @@
     margin-left: 40px;
 }
 
-.fotot18 {
+.fotoam8 {
     background-image: url('foto8.jpg');
     width: 300px;
     height: 200px;
@@ -127,7 +343,7 @@
     margin-top: -215px;
 }
 
-.fotot19 {
+.fotoam9 {
     background-image: url('foto9.jpg');
     width: 300px;
     height: 200px;

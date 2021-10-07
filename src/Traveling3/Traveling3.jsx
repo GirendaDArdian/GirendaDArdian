@@ -18,7 +18,7 @@ class Traveling1 extends Component {
                     <body className="bodyt1">
                         <header className="headert1">
                             <h4 className="h4t1">Traveling 2</h4>
-                            <h1 className="h1t1">Pengalaman Liburan ke Lombok</h1>
+                            <h1 className="h1t1">Pengalaman Liburan ke Bali</h1>
                             <h3 className="h3t1">Ditulis pada 6 Oktober 2021 oleh Girenda Dhiandre Ardianugrah</h3>
                         </header>
                         <body className="body2t1">
