@@ -26,10 +26,13 @@ class App extends Component {
         <div className="App">
           <header className="App-header"  ><u> <Link to="/home" >TJ HISTORY</Link></u>
             <img src={logo} className="App-logo" alt="logo" />
-
-
-            {/* <Greeting/> */}
           </header>
+
+
+
+
+          {/* <Greeting/> */}
+
           <header className="listHeader">
             <Fragment>
               <ul>
@@ -41,6 +44,10 @@ class App extends Component {
 
 
 
+
+
+
+                <Route path="/" exact component={Home} />
                 <Route path="/home" component={Home} />
                 <Route path="/traveling1" component={Traveling1} />
                 <Route path="/traveling2" component={Traveling2} />
@@ -48,6 +55,7 @@ class App extends Component {
                 <Route path="/aboutme" component={AboutMe} />
 
               </ul>
+
             </Fragment>
           </header>
           <body className="Body">
@@ -57,7 +65,7 @@ class App extends Component {
         </div>
 
 
-      </BrowserRouter>
+      </BrowserRouter >
 
     );
 

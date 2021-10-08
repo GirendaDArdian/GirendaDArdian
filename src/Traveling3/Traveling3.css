@@ -4,7 +4,6 @@
     text-align: center;
     background-color: #2d552b;
     width: 1287px;
-
     margin-left: -40px;
     margin-top: -17px;
     background-size: 2000px;
@@ -17,7 +16,7 @@
     text-align: center;
     background-color: #2d552b;
     width: 1280px;
-    height: 1800px;
+    height: 2050PX;
     margin-top: -17px;
     background-size: 2000px;
 
@@ -50,16 +49,16 @@
 
 }
 
-/* .fotot11 {
-    background-image: url('foto1.jpg');
+.fotot31 {
+    background-image: url('1.jpg');
     width: 300px;
     height: 200px;
     background-size: 300px;
     margin-left: 40px;
 }
 
-.fotot12 {
-    background-image: url('foto2.jpg');
+.fotot32 {
+    background-image: url('2.jpg');
     width: 300px;
     height: 200px;
     background-size: 300px;
@@ -68,8 +67,8 @@
     margin-top: -215px;
 }
 
-.fotot13 {
-    background-image: url('foto3.jpg');
+.fotot33 {
+    background-image: url('3.jpg');
     width: 300px;
     height: 200px;
     background-size: 300px;
@@ -79,8 +78,8 @@
     margin-top: -215px;
 }
 
-.fotot14 {
-    background-image: url('foto4.jpg');
+.fotot34 {
+    background-image: url('4.jpg');
     width: 300px;
     height: 200px;
     background-size: 300px;
@@ -89,8 +88,8 @@
 
 }
 
-.fotot15 {
-    background-image: url('foto5.jpg');
+.fotot35 {
+    background-image: url('5.jpg');
     width: 300px;
     height: 200px;
     background-size: 300px;
@@ -99,8 +98,8 @@
     margin-top: -215px;
 }
 
-.fotot16 {
-    background-image: url('foto6.jpg');
+.fotot36 {
+    background-image: url('6.jpg');
     width: 300px;
     height: 200px;
     background-size: 300px;
@@ -109,16 +108,16 @@
     margin-top: -215px;
 }
 
-.fotot17 {
-    background-image: url('foto7.JPG');
+.fotot37 {
+    background-image: url('7.jpg');
     width: 300px;
     height: 200px;
     background-size: 300px;
     margin-left: 40px;
 }
 
-.fotot18 {
-    background-image: url('foto8.jpg');
+.fotot38 {
+    background-image: url('8.jpg');
     width: 300px;
     height: 200px;
     background-size: 300px;
@@ -127,12 +126,12 @@
     margin-top: -215px;
 }
 
-.fotot19 {
-    background-image: url('foto9.jpg');
+.fotot39 {
+    background-image: url('9.jpg');
     width: 300px;
     height: 200px;
     background-size: 300px;
     margin-left: 40px;
     margin-left: 850px;
     margin-top: -215px;
-} */
+}

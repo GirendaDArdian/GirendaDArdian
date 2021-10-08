@@ -1,8 +1,11 @@
 .App {
   text-align: left;
   width: 1287px;
-
   background-color: #145712;
+  width: 1287px;
+
+
+
 
 }
 
@@ -35,8 +38,7 @@
   color: #ffc400;
   font-size: 55px;
   font-family: 'Speeday';
-  height: 0px;
-  width: max-content;
+  height: 10px;
   padding-top: 20px;
 
 }
@@ -107,4 +109,3 @@
 .header ul li a {
   color: lightskyblue;
 }
-

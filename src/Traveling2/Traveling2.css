@@ -50,89 +50,83 @@
 
 }
 
-/* .fotot11 {
-    background-image: url('foto1.jpg');
+.fotot21 {
+    background-image: url('foto\ \(1\).jpg');
     width: 300px;
     height: 200px;
     background-size: 300px;
     margin-left: 40px;
 }
 
-.fotot12 {
-    background-image: url('foto2.jpg');
-    width: 300px;
-    height: 200px;
-    background-size: 300px;
+.fotot22 {
+    background-image: url('foto\ \(2\).jpg');
+    width: 200px;
+    height: 400px;
+    background-size: 200px;
     margin-left: 80px;
-    margin-left: 450px;
+    margin-left: 490px;
     margin-top: -215px;
 }
 
-.fotot13 {
-    background-image: url('foto3.jpg');
+.fotot23 {
+    background-image: url('foto\ \(3\).jpg');
     width: 300px;
     height: 200px;
     background-size: 300px;
     margin-left: 80px;
     margin-right: 30px;
     margin-left: 850px;
-    margin-top: -215px;
+    margin-top: -415px;
+
 }
 
-.fotot14 {
-    background-image: url('foto4.jpg');
+.fotot24 {
+    background-image: url('foto\ \(4\).jpg');
     width: 300px;
     height: 200px;
     background-size: 300px;
     margin-left: 40px;
+    margin-top: 10px;
 
 
 }
 
-.fotot15 {
-    background-image: url('foto5.jpg');
+.fotot25 {
+    background-image: url('foto\ \(5\).jpg');
     width: 300px;
     height: 200px;
     background-size: 300px;
-    margin-left: 40px;
-    margin-left: 450px;
-    margin-top: -215px;
+    margin-left: 850px;
+    margin-top: 10px;
+
 }
 
-.fotot16 {
-    background-image: url('foto6.jpg');
+.fotot26 {
+    background-image: url('foto\ \(6\).jpg');
     width: 300px;
     height: 200px;
     background-size: 300px;
     margin-left: 40px;
     margin-left: 850px;
-    margin-top: -215px;
+    margin-top: -430px;
+    margin-bottom: 20px;
 }
 
-.fotot17 {
-    background-image: url('foto7.JPG');
+.fotot27 {
+    background-image: url('foto\ \(7\).jpg');
     width: 300px;
     height: 200px;
     background-size: 300px;
     margin-left: 40px;
+    margin-top: -5px;
 }
 
-.fotot18 {
-    background-image: url('foto8.jpg');
+/* .fotot28 {
+    background-image: url('foto\ \(8\).jpg');
     width: 300px;
     height: 200px;
     background-size: 300px;
     margin-left: 40px;
     margin-left: 450px;
-    margin-top: -215px;
-}
-
-.fotot19 {
-    background-image: url('foto9.jpg');
-    width: 300px;
-    height: 200px;
-    background-size: 300px;
-    margin-left: 40px;
-    margin-left: 850px;
     margin-top: -215px;
 } */

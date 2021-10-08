@@ -71,23 +71,6 @@ class AboutMe extends Component {
                                 <p className="p1am11">Competition from BKIM Provinsi </p>
                                 <p className="p1am11">Jawa Tengah</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                             </body>
                         </body>
                     </body>
